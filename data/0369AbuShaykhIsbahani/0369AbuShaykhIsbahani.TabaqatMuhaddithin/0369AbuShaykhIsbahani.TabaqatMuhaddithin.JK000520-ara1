@@ -1,39 +1,38 @@
-#####ARABICA#SUBJECT#
+######OpenITI#
 
 
-######## BEGofRECORD ###################################################
-#000000# 000.SortField	:: JK_000520
-#NewRec# 000.BookURI	:: #0369.IbnHayyan.TabaqatMuhaddithin
-#NewRec# 010.AuthorAKA	:: ابن حيان
-#NewRec# 010.AuthorNAME	:: عبدالله بن محمد بن جعفر بن حيان أبو محمد الأنصاري
-#NewRec# 011.AuthorBORN	:: 274
-#NewRec# 011.AuthorDIED	:: 369
-#NewRec# 019.AuthorDIED	:: NODATA
-#NewRec# 020.BookTITLE	:: طبقات المحدثين بأصبهان والواردين عليها
-#NewRec# 020.BookTITLESUB	:: NODATA
-#NewRec# 021.BookSUBJ	:: الطبقات والتراجم :: كتب البلدان :: كتب الحديث النبوي الشريف وتراجم الرواة
-#NewRec# 022.BookVOLS	:: 4
-#NewRec# 025.BookLANG	:: NODATA
-#NewRec# 029.BookTITLEalt	:: طبقات المحدثين بأصبهان
-#NewRec# 030.LibURI	:: JK_000520
-#NewRec# 030.LibURIextra	:: NODATA
-#NewRec# 031.LibREADONLINE	:: NODATA
-#NewRec# 031.LibURL	:: NODATA
-#NewRec# 031.LibURLFILE	:: NODATA
-#NewRec# 031.LibURLextra	:: NODATA
-#NewRec# 040.EdALL	:: NODATA
-#NewRec# 040.EdEDITOR	:: عبدالغفور عبدالحق حسين البلوشي
-#NewRec# 041.EdNUMBER	:: الثانية
-#NewRec# 041.EdNumber	:: NODATA
-#NewRec# 043.EdPUBLISHER	:: مؤسسة الرسالة
-#NewRec# 044.EdPLACE	:: بيروت
-#NewRec# 045.EdYEAR	:: 1412 - 1992
-#NewRec# 049.EdISBN	:: NODATA
-#NewRec# 049.EdPAGES	:: NODATA
-#NewRec# 049.EdPHYSICAL	:: NODATA
-#NewRec# 049.EdVOLUME	:: NODATA
-#NewRec# 090.RecMISC	:: NODATA
-#NewRec# 999.MiscINFO	:: NODATA
+#META# 000.SortField	:: JK_000520
+#META# 000.BookURI	:: #0369.IbnHayyan.TabaqatMuhaddithin
+#META# 010.AuthorAKA	:: ابن حيان
+#META# 010.AuthorNAME	:: عبدالله بن محمد بن جعفر بن حيان أبو محمد الأنصاري
+#META# 011.AuthorBORN	:: 274
+#META# 011.AuthorDIED	:: 369
+#META# 019.AuthorDIED	:: NODATA
+#META# 020.BookTITLE	:: طبقات المحدثين بأصبهان والواردين عليها
+#META# 020.BookTITLESUB	:: NODATA
+#META# 021.BookSUBJ	:: الطبقات والتراجم :: كتب البلدان :: كتب الحديث النبوي الشريف وتراجم الرواة
+#META# 022.BookVOLS	:: 4
+#META# 025.BookLANG	:: NODATA
+#META# 029.BookTITLEalt	:: طبقات المحدثين بأصبهان
+#META# 030.LibURI	:: JK_000520
+#META# 030.LibURIextra	:: NODATA
+#META# 031.LibREADONLINE	:: NODATA
+#META# 031.LibURL	:: NODATA
+#META# 031.LibURLFILE	:: NODATA
+#META# 031.LibURLextra	:: NODATA
+#META# 040.EdALL	:: NODATA
+#META# 040.EdEDITOR	:: عبدالغفور عبدالحق حسين البلوشي
+#META# 041.EdNUMBER	:: الثانية
+#META# 041.EdNumber	:: NODATA
+#META# 043.EdPUBLISHER	:: مؤسسة الرسالة
+#META# 044.EdPLACE	:: بيروت
+#META# 045.EdYEAR	:: 1412 - 1992
+#META# 049.EdISBN	:: NODATA
+#META# 049.EdPAGES	:: NODATA
+#META# 049.EdPHYSICAL	:: NODATA
+#META# 049.EdVOLUME	:: NODATA
+#META# 090.RecMISC	:: NODATA
+#META# 999.MiscINFO	:: NODATA
 
 
 
