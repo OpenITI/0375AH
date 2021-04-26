@@ -25,9 +25,10 @@
     Kramers added after every image of the maps in the text a description 
     of that map (see introduction, p. ه). PV extracted the images from 
     the pdf and put them in the in the ./img folder, and added links to 
-    the images in the text, formatting Kramers' descriptions of the maps
-    as captions to the images using standard markdown practice: 
-    `![caption](image_link)`. 
+    the images in the text using the standard markdown notation 
+    `![caption](image_link)`. Kramers' descriptions of the maps
+    were extracted from the text and added to the ./img folder in separate 
+    text files (same file name as the image files, with extension `.caption`). 
     PV removed the first-level headings for the two volumes of the edition,
     and the editorial introduction. 
     PV also restored some missing references to the manuscript folios. 
