@@ -3,7 +3,7 @@
 00#VERS#URI######: 0375IkhwanSafa.Rasail.Hindawi95926405Vols-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/1041874066
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/1041874066
-80#VERS#LINKS####: https://www.hindawi.org/contributors/36260918/
+80#VERS#LINKS####: Vol1: https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D8%AE%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B5%D9%81%D8%A7%D8%A1-%D9%88%D8%AE%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D9%88%D9%81%D8%A7%D8%A1-v-1-pdf; Vol 2: https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D8%AE%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B5%D9%81%D8%A7%D8%A1-%D9%88%D8%AE%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D9%88%D9%81%D8%A7%D8%A1-v-2-pdf; Vol 3: https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D8%AE%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B5%D9%81%D8%A7%D8%A1-%D9%88%D8%AE%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D9%88%D9%81%D8%A7%D8%A1-v-3-pdf; Vol 4: https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D8%AE%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B5%D9%81%D8%A7%D8%A1-%D9%88%D8%AE%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D9%88%D9%81%D8%A7%D8%A1-v-4-pdf; Original digital text in Hindawi library: https://www.hindawi.org/contributors/36260918/
 90#VERS#ANNOTATOR: Gowaart Van Den Bossche
 90#VERS#COMMENT##: This text was scraped in four parts from Hindawi by
     Peter Verkinderen, the headers from that website were automatically
@@ -12,5 +12,6 @@
     itself is based on the 1928 Cairo edition by Zirikli and is of high
     quality, except for the pagination which is not noted on the webpage and
     thus not present in this file.
+   NOTE OF THE REVIEWER (HRH): Editorial removed. PARATEXT added.
 90#VERS#DATE#####: 2020-01-09
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, RANDOM_CHARS
