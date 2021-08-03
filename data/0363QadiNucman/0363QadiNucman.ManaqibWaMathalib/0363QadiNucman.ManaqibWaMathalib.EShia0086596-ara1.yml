@@ -8,5 +8,6 @@
 90#VERS#COMMENT##: The editor has introduced some subheadings o the
     text, which are inside square brackets. The text is clean, page numbers
     accurate.
+    NB: check lines of poetry that seem too long: line numbers 1603
 90#VERS#DATE#####: 2020-07-06
 90#VERS#ISSUES###: NO_MAJOR_ISSUES, EDITORIAL_SECTIONS
