@@ -1,11 +1,13 @@
 00#BOOK#URI######: 0367IbnHawqal.SuratArd
+00#VERS#CLENGTH##: 475394
+00#VERS#LENGTH###: 106885
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
 10#BOOK#TITLEA#AR: Kitāb Ṣūraŧ al-arḍ
 10#BOOK#TITLEB#AR:
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: 0346Istakhri.MasalikWaMamalik (CONT)
-80#BOOK#EDITIONS#: http://www.worldcat.org/oclc/933726673, 
+80#BOOK#EDITIONS#: http://www.worldcat.org/oclc/933726673,
     http://www.worldcat.org/oclc/957212720
 80#BOOK#LINKS####: https://archive.org/details/viaeetregnadescr02ibnh,
     https://www.kutubpdfbook.com/book/كتاب-صورة-الارض/download
