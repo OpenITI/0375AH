@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 794103
-00#VERS#LENGTH###: 192710
+00#VERS#CLENGTH##: 793624
+00#VERS#LENGTH###: 192599
 00#VERS#URI######: 0370IbnBishrAmidi.Muwazana.Sham19Y0026183-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/646274415
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/646274415
@@ -20,6 +20,15 @@
     12984, 13241, 13858, 14021, 19210
     NB: check lines of poetry that seem too long: line numbers 1745, 7716,
     12107, 16364, 16933, 19171
-   NOTE OF THE REVIEWER (HRH): Changes in the headers and their levelling made (mostly based on the table of contents at the end of the volumes). 2- A few headers at the beginning of the text don’t exist in the PDF. They have been added to the text based on the table of contents at the end of the volumes. The problem was that they were at the beginning of the pages; while the beginning of the page was the continuation of the previous pages, and the header were actually for the second or third paragraph. So, I changed the place of such headers (based on what I understood from the text). The header for PageV01P259 was at the beginning of PageV01P159. The header for PageV01P261 was at the beginning of PageV01P161. I moved them to their correct places.
+    NOTE OF THE REVIEWER (HRH): Changes in the headers and their levelling made
+    (mostly based on the table of contents at the end of the volumes). 2- A few
+    headers at the beginning of the text don’t exist in the PDF. They have been
+    added to the text based on the table of contents at the end of the volumes. The
+    problem was that they were at the beginning of the pages; while the beginning of
+    the page was the continuation of the previous pages, and the header were
+    actually for the second or third paragraph. So, I changed the place of such
+    headers (based on what I understood from the text). The header for PageV01P259
+    was at the beginning of PageV01P159. The header for PageV01P261 was at the
+    beginning of PageV01P161. I moved them to their correct places.
 90#VERS#DATE#####: 2021-02-01
 90#VERS#ISSUES###: NO_MAJOR_ISSUES
