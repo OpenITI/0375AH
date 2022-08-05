@@ -1,7 +1,11 @@
 00#BOOK#URI######: 0367IbnHawqal.SuratArd
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
 10#BOOK#TITLEA#AR: Kitāb Ṣūraŧ al-arḍ
-10#BOOK#TITLEB#AR:
+10#BOOK#TITLEB#AR: Kitāb Hayʾaŧ aškāl al-arḍ wa-miqdārihā fī al-ṭūl wa-al-ʿarḍ al-maʿrūf bi ǧuġrāfiyā,
+    Kitāb ʿAǧāʾib al-dunyā,
+    Ṣifaŧ alaqālīm al-islāmiyyaŧ wa-ġayrihā wa-mā fīhā min al-ǧibāl wa-al-biḥār,
+    Kitāb al-Masālik wa-al-mamālik,
+    Kitāb Aqālīm al-buldān
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: 0346Istakhri.MasalikWaMamalik (CONT)
