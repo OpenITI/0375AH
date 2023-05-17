@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 175212
-00#VERS#LENGTH###: 42925
+00#VERS#CLENGTH##: 175282
+00#VERS#LENGTH###: 42926
 00#VERS#URI######: 0361Khushani.QudatQurtuba.Kraken220629161005-ara1
 80#VERS#BASED####:
 80#VERS#COLLATED#:
@@ -10,4 +10,4 @@
     * segmentation model: DEFAULT
     * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
 90#VERS#DATE#####: 2022-06-29
-90#VERS#ISSUES###:
+90#VERS#ISSUES###: UNCORRECTED_OCR
