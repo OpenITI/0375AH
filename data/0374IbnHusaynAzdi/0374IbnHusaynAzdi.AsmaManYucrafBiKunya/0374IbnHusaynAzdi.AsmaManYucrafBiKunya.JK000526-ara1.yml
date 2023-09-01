@@ -6,6 +6,9 @@
 80#VERS#LINKS####: https://ketabpedia.com/تحميل/أسماء-من-يعرف-بكنيته-الدار-السلفية-ال/
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: 1- Page numbers appear after their correct places.
-    2-A missing title in page 65.
+        2-A missing title in page 65.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-01-01
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

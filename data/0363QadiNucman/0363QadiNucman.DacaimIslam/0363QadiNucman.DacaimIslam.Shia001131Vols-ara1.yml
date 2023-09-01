@@ -4,12 +4,15 @@
 80#VERS#BASED####: http://www.worldcat.org/oclc/122896760
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/122896760
 80#VERS#LINKS####: https://www.noor-book.com/كتاب-دعائم-الإسلام-القاضي-
-    النعمان-المغربي-ت-هـ-pdf
+        النعمان-المغربي-ت-هـ-pdf
 90#VERS#ANNOTATOR: AQ
 90#VERS#COMMENT##: Contains editorial sections and paratext, pagination
-    is correct, paragraphs are generally correctly; this edition is the only
-    reliable critical edition available.
-    NOTE OF THE REVIEWER (HRH): Editorial removed. Changed the levelling of the
-    headers in the first part from second-level to first-level.
+        is correct, paragraphs are generally correctly; this edition is the only
+        reliable critical edition available.
+        NOTE OF THE REVIEWER (HRH): Editorial removed. Changed the levelling of the
+        headers in the first part from second-level to first-level.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-02-18
-90#VERS#ISSUES###: NO MAJOR ISSUES
+90#VERS#ISSUES###: NO MAJOR ISSUES, PRIMARY_VERSION, CLEANED_VERSION

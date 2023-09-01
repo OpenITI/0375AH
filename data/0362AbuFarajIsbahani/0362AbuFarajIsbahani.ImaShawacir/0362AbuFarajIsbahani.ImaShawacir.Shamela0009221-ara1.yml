@@ -6,7 +6,10 @@
 80#VERS#LINKS####: http://www.ar.islamic-sources.com/book/الإماء-الشواعر/
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: 1- At the beginning of some sections, the editor has
-    added some explanations (inside the text!). I tagged these explanatory
-    parts as Editorial.  2- Pages 23-24 (i.e. “مقدمة مؤلف”) are missing.
+        added some explanations (inside the text!). I tagged these explanatory
+        parts as Editorial.  2- Pages 23-24 (i.e. “مقدمة مؤلف”) are missing.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-12-20
-90#VERS#ISSUES###: HTML_TAGS, MISSING_PARTS
+90#VERS#ISSUES###: HTML_TAGS, MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION

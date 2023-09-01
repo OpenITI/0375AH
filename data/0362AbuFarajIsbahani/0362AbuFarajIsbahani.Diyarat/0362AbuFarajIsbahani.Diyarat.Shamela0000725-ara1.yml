@@ -6,8 +6,11 @@
 80#VERS#LINKS####: http://sooqukaz.com/index.php/المكتبة-الثقافية/الديارات-أبو-الفرج-الأصبهاني
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: At the beginning of some sections, the editor has
-    quoted some other texts to explain about the place (the references of
-    these quotations are missing in Editpro text). I tagged these parts as
-    Editorial.
+        quoted some other texts to explain about the place (the references of
+        these quotations are missing in Editpro text). I tagged these parts as
+        Editorial.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-12-20
-90#VERS#ISSUES###: HTML_TAGS
+90#VERS#ISSUES###: HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION
