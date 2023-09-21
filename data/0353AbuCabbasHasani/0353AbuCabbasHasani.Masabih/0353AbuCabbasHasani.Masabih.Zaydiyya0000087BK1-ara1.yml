@@ -1,16 +1,17 @@
-00#BOOK#URI######: 0353AbuCabbasHasani.Masabih.Zaydiyya0000087BK1-ara1
-10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: 0748Dhahabi.DhaylTarikhIslam
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
-20#BOOK#WROTE####: URIs from Althurayya, comma separated
-30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
-40#BOOK#RELATED##: al-maṣābīḥ min akhbār al-muṣṭafá wa-al-murtaḍá
-80#BOOK#EDITIONS#: permalink, permalink, permalink
-80#BOOK#LINKS####: permalink, permalink, permalink
-80#BOOK#MSS######: permalink, permalink, permalink
-80#BOOK#STUDIES##: permalink, permalink, permalink
-80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+00#VERS#CLENGTH##: 
+00#VERS#LENGTH###: 
+00#VERS#URI######: 0353AbuCabbasHasani.Masabih.Zaydiyya0000087BK1-ara1
+80#VERS#BASED####: 
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/929485260
+80#VERS#LINKS####:
+    https://ebookshia.com/books/view/4988/اخبار+فخ+و+خبر+یحیی+بن+عبدالله+و+اخیه+ادریس+بن+عبدالله
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: The original text file contained two separate texts:
+    * 0353AbuCabbasHasani.Masabih
+    * 0450CaliIbnBilal.TatimmatMasabih
+    PV removed the editorial sections and split the continuation off
+    from the main text.
+    The PDF has a different page numbering but the text 
+    seems pretty close.
+90#VERS#DATE#####: 2019-09-19
+90#VERS#ISSUES###: CLEANED_VERSION, PRIMARY_VERSION
