@@ -11,12 +11,14 @@
     * Kraken version: 3.0.0.0b21.dev6
     * segmentation model: DEFAULT
     * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
-    NOTE: More works published together; including two (?) by al-Bakrī; situation
-    needs to be sorted and the text needs to be split in further step.
-    All paratextual elements
-    (introductions, footnotes, indices, ...)
-    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    The original text contained four separate texts:
+    * 0356AbuCaliQali.Amali
+    * 0356AbuCaliQali.DhaylAmali
+    * 0356AbuCaliQali.Nawadir
+    * 0487AbuCubaydBakri.TanbihCalaAwham
+    PV removed the editorial material and split the text into separate files.
+    The text contains footnotes and needs to be re-OCR'ed.
     Link to the text file as it was before it was cleaned:
     https://raw.githubusercontent.com/OpenITI/0375AH/pre-clean/data/0356AbuCaliQali/0356AbuCaliQali.AmaliMacaDhaylAmaliWaNawadir/0356AbuCaliQali.AmaliMacaDhaylAmaliWaNawadir.Kraken22021606120800-ara1
 90#VERS#DATE#####: 2022-02-16
-90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION
+90#VERS#ISSUES###: UNCORRECTED_OCR, FOOTNOTES
