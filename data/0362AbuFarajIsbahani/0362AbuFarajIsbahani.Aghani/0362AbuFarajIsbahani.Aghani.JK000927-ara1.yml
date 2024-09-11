@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 6146731
-00#VERS#LENGTH###: 1527426
+00#VERS#CLENGTH##: 6145974
+00#VERS#LENGTH###: 1527257
 00#VERS#URI######: 0362AbuFarajIsbahani.Aghani.JK000927-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/4771220182 (?? the year
     of publication is not specified in METADATA)
@@ -48,6 +48,8 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0375AH/pre-clean/data/0362AbuFarajIsbahani/0362AbuFarajIsbahani.Aghani/0362AbuFarajIsbahani.Aghani.JK000927-ara1.completed
+    https://raw.githubusercontent.com/OpenITI/0375AH/pre-
+    clean/data/0362AbuFarajIsbahani/0362AbuFarajIsbahani.Aghani/0362AbuFarajIsbahani.Aghani.JK000927-ara1.completed
 90#VERS#DATE#####: 2020-01-08
-90#VERS#ISSUES###: MISSING_PARTS, REDUNDNANT_PARTS, RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION
+90#VERS#ISSUES###: MISSING_PARTS, REDUNDNANT_PARTS, RANDOM_CHARS,
+    PRIMARY_VERSION, CLEANED_VERSION
