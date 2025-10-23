@@ -4,7 +4,7 @@
 10#AUTH#LAQAB##AR: 
 10#AUTH#NASAB##AR: 
 10#AUTH#NISBA##AR: 
-10#AUTH#SHUHRA#AR: 
+10#AUTH#SHUHRA#AR: Mutarjim majhūl
 20#AUTH#BORN#####: URIs from Althurayya, comma separated
 20#AUTH#DIED#####: URIs from Althurayya, comma separated
 20#AUTH#RESIDED##: URIs from Althurayya, comma separated
@@ -15,10 +15,10 @@
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: Orosius' text was translated for the Umayyad caliph 
-    al-Ḥakam II al-Mustanṣir (r. 350-366/961-976) in al-Andalus.
-    Ibn Khaldun states that the text was translated for him by 
-    "the judge of the Christians and their translator in Cordoba, Qāsim b. Aṣbagh";
-    and elsewhere, "by two Muslims who used to translate for the caliphs in Cordoba".
-    The editor of the text, ʿAbd al-Raḥmān Badawī, rejects Ibn Khaldun's statements
-    about the translators of the text (see Badawī's introduction to the edition, p. 10-14).
-    The text is extant in only one manuscript: New York, Columbia University Library, X 893-712 H.
+        al-Ḥakam II al-Mustanṣir (r. 350-366/961-976) in al-Andalus.
+        Ibn Khaldun states that the text was translated for him by 
+        "the judge of the Christians and their translator in Cordoba, Qāsim b. Aṣbagh";
+        and elsewhere, "by two Muslims who used to translate for the caliphs in Cordoba".
+        The editor of the text, ʿAbd al-Raḥmān Badawī, rejects Ibn Khaldun's statements
+        about the translators of the text (see Badawī's introduction to the edition, p. 10-14).
+        The text is extant in only one manuscript: New York, Columbia University Library, X 893-712 H.
