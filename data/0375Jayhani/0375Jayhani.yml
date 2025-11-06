@@ -13,6 +13,7 @@
 30#AUTH#DIED###AH: 
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: viaf@id, wikidata@id, src@id
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: Worked as secretary for the Samānid Naṣr b. Aḥmad b. Ismāʿīl (d. 331/943),
     and until 367/978 as vizier for Nūḥ b. Manṣūr al-Sāmānī (d. 387/997).

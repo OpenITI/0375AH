@@ -9,6 +9,7 @@
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: 0346Istakhri.MasalikWaMamalik (CONT)
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: http://www.worldcat.org/oclc/933726673,
     http://www.worldcat.org/oclc/957212720
 80#BOOK#LINKS####: https://archive.org/details/viaeetregnadescr02ibnh,

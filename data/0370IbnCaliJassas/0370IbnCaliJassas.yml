@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0370-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q6820252
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Aḥmad b. ʿAlī Abū Bakr al-Rāzī , famous Ḥanafī jurist and chief representative of the aṣḥāb al-raʾy [q.v.] in his day. He was born in 917/305, went to Bag̲h̲dād in 324, and there studied law under ʿAlī b. al-Ḥasan al-Kark̲h̲ī.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_2017

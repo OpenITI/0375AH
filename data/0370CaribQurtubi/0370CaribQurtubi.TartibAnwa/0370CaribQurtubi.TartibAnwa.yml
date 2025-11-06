@@ -2,19 +2,20 @@
 10#BOOK#GENRES###: فلاحة :: أنواء
 10#BOOK#TITLEA#AR: Kitāb fī tartīb al-Anwā'
 10#BOOK#TITLEB#AR: Kitāb fī tafṣīl al-azmān wa-maṣāliḥ al-abdān
-20#BOOK#WROTE####:
+20#BOOK#WROTE####: 
 30#BOOK#WROTE##AH: 0350-XX-XX
 40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
     followed by abbreviation for relation type between brackets (see
     book_relations repo). Only include relations with older books. Separate
     related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: http://www.worldcat.org/oclc/48047699,
     http://www.worldcat.org/oclc/902204461,
     http://www.worldcat.org/oclc/803250162
 80#BOOK#LINKS####: http://mdz-nbn-
     resolving.de/urn:nbn:de:bvb:12-bsb11156573-1,
     http://www.filaha.org/ArabicTranslation.html
-80#BOOK#MSS######:
+80#BOOK#MSS######: 
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
 90#BOOK#COMMENT##: The book's title and authorship is debated. "Dozy
